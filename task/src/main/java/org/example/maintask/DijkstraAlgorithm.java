@@ -6,6 +6,12 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
 
+/*
+*
+* @author Illia Melnyk
+*/
+
+
 public class Main {
     private static int destination;                                                             // variable which points at city which will be the next
     public static class City {
